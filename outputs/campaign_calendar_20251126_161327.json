@@ -1,0 +1,285 @@
+{
+  "exported_at": "2025-11-26T16:13:27.139486",
+  "total_campaigns": 21,
+  "events": [
+    {
+      "campaign_id": "camp_1764173607.137636_day1",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 1",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-26T16:13:27.137538",
+      "status": "Scheduled",
+      "performance_metrics": {}
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day2",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 2",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-27T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 13959,
+        "engagement": 1209,
+        "clicks": 509,
+        "conversions": 14
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day3",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 3",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-28T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 5001,
+        "engagement": 251,
+        "clicks": 51,
+        "conversions": 6
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day4",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 4",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-29T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10481,
+        "engagement": 731,
+        "clicks": 531,
+        "conversions": 36
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day5",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 5",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-30T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 12926,
+        "engagement": 1176,
+        "clicks": 476,
+        "conversions": 31
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day6",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 6",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-12-01T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10466,
+        "engagement": 716,
+        "clicks": 516,
+        "conversions": 21
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day7",
+      "platform": "LinkedIn",
+      "title": "AI-Powered CRM Launch 2024 - Day 7",
+      "content": "\ud83c\udfaf AI-Powered CRM Launch 2024\nExciting announcement for our Enterprise SaaS buyers and IT decision makers! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-12-02T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 11469,
+        "engagement": 719,
+        "clicks": 519,
+        "conversions": 24
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day1",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 1",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-26T16:13:27.137538",
+      "status": "Scheduled",
+      "performance_metrics": {}
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day2",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 2",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-27T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 13959,
+        "engagement": 1209,
+        "clicks": 509,
+        "conversions": 14
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day3",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 3",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-28T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 5001,
+        "engagement": 251,
+        "clicks": 51,
+        "conversions": 6
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day4",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 4",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-29T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10481,
+        "engagement": 731,
+        "clicks": 531,
+        "conversions": 36
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day5",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 5",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-30T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 12926,
+        "engagement": 1176,
+        "clicks": 476,
+        "conversions": 31
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day6",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 6",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-12-01T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10466,
+        "engagement": 716,
+        "clicks": 516,
+        "conversions": 21
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day7",
+      "platform": "Twitter",
+      "title": "AI-Powered CRM Launch 2024 - Day 7",
+      "content": "\ud83d\ude80 AI-Powered CRM Launch 2024 is here! Perfect for Enterprise SaaS buyers and IT decision makers. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-12-02T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 11469,
+        "engagement": 719,
+        "clicks": 519,
+        "conversions": 24
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day1",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 1",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-11-26T16:13:27.137538",
+      "status": "Scheduled",
+      "performance_metrics": {}
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day2",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 2",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-11-27T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 13959,
+        "engagement": 1209,
+        "clicks": 509,
+        "conversions": 14
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day3",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 3",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-11-28T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 5001,
+        "engagement": 251,
+        "clicks": 51,
+        "conversions": 6
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day4",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 4",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-11-29T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10481,
+        "engagement": 731,
+        "clicks": 531,
+        "conversions": 36
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day5",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 5",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-11-30T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 12926,
+        "engagement": 1176,
+        "clicks": 476,
+        "conversions": 31
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day6",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 6",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-12-01T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10466,
+        "engagement": 716,
+        "clicks": 516,
+        "conversions": 21
+      }
+    },
+    {
+      "campaign_id": "camp_1764173607.137636_day7",
+      "platform": "Facebook",
+      "title": "AI-Powered CRM Launch 2024 - Day 7",
+      "content": "\ud83d\udce2 We're excited to introduce AI-Powered CRM Launch 2024! Created specifically for Enterprise SaaS buyers and IT decision makers. Join our community and discover more!",
+      "scheduled_time": "2025-12-02T16:13:27.137538",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 11469,
+        "engagement": 719,
+        "clicks": 519,
+        "conversions": 24
+      }
+    }
+  ]
+}

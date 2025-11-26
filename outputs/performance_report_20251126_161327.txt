@@ -1,0 +1,70 @@
+
+================================================================================
+📊 CAMPAIGN PERFORMANCE REPORT
+================================================================================
+
+Generated: 2025-11-26 16:13:27
+
+
+📱 LinkedIn
+----------------------------------------
+  Posts:             6
+  Total Reach:       59,542
+  Engagements:       1,680
+  Engagement Rate:   2.82%
+  Clicks:            461
+  CTR:               0.77%
+  Conversions:       7
+  Conv. Rate:        1.52%
+
+📱 Twitter
+----------------------------------------
+  Posts:             6
+  Total Reach:       90,216
+  Engagements:       3,227
+  Engagement Rate:   3.58%
+  Clicks:            690
+  CTR:               0.76%
+  Conversions:       20
+  Conv. Rate:        2.90%
+
+📱 Instagram
+----------------------------------------
+  Posts:             0
+  Total Reach:       0
+  Engagements:       0
+  Engagement Rate:   0.00%
+  Clicks:            0
+  CTR:               0.00%
+  Conversions:       0
+
+📱 Facebook
+----------------------------------------
+  Posts:             6
+  Total Reach:       147,628
+  Engagements:       2,584
+  Engagement Rate:   1.75%
+  Clicks:            488
+  CTR:               0.33%
+  Conversions:       16
+  Conv. Rate:        3.28%
+
+📱 TikTok
+----------------------------------------
+  Posts:             0
+  Total Reach:       0
+  Engagements:       0
+  Engagement Rate:   0.00%
+  Clicks:            0
+  CTR:               0.00%
+  Conversions:       0
+
+
+📈 OVERALL SUMMARY
+----------------------------------------
+  Total Reach:       297,386
+  Total Engagements: 7,491
+  Total Conversions: 43
+  Avg Engagement %:  2.52%
+
+================================================================================

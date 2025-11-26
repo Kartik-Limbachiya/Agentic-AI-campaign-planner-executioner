@@ -1,0 +1,285 @@
+{
+  "exported_at": "2025-11-26T16:10:09.932336",
+  "total_campaigns": 21,
+  "events": [
+    {
+      "campaign_id": "camp_1764173409.931463_day1",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 1",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-26T16:10:09.931450",
+      "status": "Scheduled",
+      "performance_metrics": {}
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day2",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 2",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-27T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 8308,
+        "engagement": 558,
+        "clicks": 358,
+        "conversions": 13
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day3",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 3",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-28T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 8473,
+        "engagement": 723,
+        "clicks": 523,
+        "conversions": 28
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day4",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 4",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-29T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10587,
+        "engagement": 837,
+        "clicks": 137,
+        "conversions": 42
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day5",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 5",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-11-30T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 11728,
+        "engagement": 978,
+        "clicks": 278,
+        "conversions": 33
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day6",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 6",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-12-01T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 7541,
+        "engagement": 791,
+        "clicks": 91,
+        "conversions": 46
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day7",
+      "platform": "LinkedIn",
+      "title": "Social Media Awareness Campaign - Day 7",
+      "content": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "scheduled_time": "2025-12-02T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 12965,
+        "engagement": 1215,
+        "clicks": 515,
+        "conversions": 20
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day1",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 1",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-26T16:10:09.931450",
+      "status": "Scheduled",
+      "performance_metrics": {}
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day2",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 2",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-27T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 8308,
+        "engagement": 558,
+        "clicks": 358,
+        "conversions": 13
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day3",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 3",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-28T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 8473,
+        "engagement": 723,
+        "clicks": 523,
+        "conversions": 28
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day4",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 4",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-29T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10587,
+        "engagement": 837,
+        "clicks": 137,
+        "conversions": 42
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day5",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 5",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-11-30T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 11728,
+        "engagement": 978,
+        "clicks": 278,
+        "conversions": 33
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day6",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 6",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-12-01T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 7541,
+        "engagement": 791,
+        "clicks": 91,
+        "conversions": 46
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day7",
+      "platform": "Twitter",
+      "title": "Social Media Awareness Campaign - Day 7",
+      "content": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "scheduled_time": "2025-12-02T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 12965,
+        "engagement": 1215,
+        "clicks": 515,
+        "conversions": 20
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day1",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 1",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-11-26T16:10:09.931450",
+      "status": "Scheduled",
+      "performance_metrics": {}
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day2",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 2",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-11-27T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 8308,
+        "engagement": 558,
+        "clicks": 358,
+        "conversions": 13
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day3",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 3",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-11-28T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 8473,
+        "engagement": 723,
+        "clicks": 523,
+        "conversions": 28
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day4",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 4",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-11-29T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 10587,
+        "engagement": 837,
+        "clicks": 137,
+        "conversions": 42
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day5",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 5",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-11-30T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 11728,
+        "engagement": 978,
+        "clicks": 278,
+        "conversions": 33
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day6",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 6",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-12-01T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 7541,
+        "engagement": 791,
+        "clicks": 91,
+        "conversions": 46
+      }
+    },
+    {
+      "campaign_id": "camp_1764173409.931463_day7",
+      "platform": "Instagram",
+      "title": "Social Media Awareness Campaign - Day 7",
+      "content": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels",
+      "scheduled_time": "2025-12-02T16:10:09.931450",
+      "status": "Executed",
+      "performance_metrics": {
+        "reach": 12965,
+        "engagement": 1215,
+        "clicks": 515,
+        "conversions": 20
+      }
+    }
+  ]
+}

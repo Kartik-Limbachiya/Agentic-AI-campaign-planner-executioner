@@ -1,0 +1,100 @@
+    "goal": "Build brand awareness and drive website traffic",
+    "platforms": [
+      "LinkedIn",
+      "Twitter",
+      "Instagram"
+    ],
+    "budget": "$3,000",
+    "start_date": "2025-11-26T15:47:20.713822",
+    "duration_days": 14,
+    "strategies": {
+      "LinkedIn": {
+        "posting_frequency": "3-4 times per week",
+        "content_type": "Articles, thought leadership, company updates",
+        "primary_kpis": [
+          "Impressions",
+          "Engagement rate",
+          "Profile visits"
+        ],
+        "goal_alignment": "Aligned with 'Build brand awareness and drive website traffic'"
+      },
+      "Twitter": {
+        "posting_frequency": "Daily (1-2 tweets)",
+        "content_type": "News, hot takes, conversations, threads",
+        "primary_kpis": [
+          "Retweets",
+          "Likes",
+          "Replies"
+        ],
+        "goal_alignment": "Aligned with 'Build brand awareness and drive website traffic'"
+      },
+      "Instagram": {
+        "posting_frequency": "4-5 times per week",
+        "content_type": "Reels, Stories, carousel posts, behind-the-scenes",
+        "primary_kpis": [
+          "Reach",
+          "Saves",
+          "Shares",
+          "Follower growth"
+        ],
+        "goal_alignment": "Aligned with 'Build brand awareness and drive website traffic'"
+      }
+    },
+    "content": {
+      "LinkedIn": "\ud83c\udfaf Social Media Awareness Campaign\nExciting announcement for our Tech enthusiasts and startups! Learn more about how we're driving innovation. #LinkedInPost",
+      "Twitter": "\ud83d\ude80 Social Media Awareness Campaign is here! Perfect for Tech enthusiasts and startups. Check it out now! #SocialMedia #Campaign",
+      "Instagram": "\u2728 Social Media Awareness Campaign is live! \ud83c\udf89 Designed for Tech enthusiasts and startups who want to stay ahead. Tap the link in bio! \ud83d\udcf8 #InstagramReels"
+    }
+  },
+  "events_scheduled": 21,
+  "posts_executed": 18,
+  "analytics": {
+    "LinkedIn": {
+      "platform": "LinkedIn",
+      "posts_count": 6,
+      "total_reach": 62030,
+      "total_engagements": 1566,
+      "avg_engagement_rate": 2.524584878284701,
+      "total_clicks": 313,
+      "total_conversions": 9,
+      "ctr": 0.5045945510236982,
+      "conversion_rate": 2.8753993610223643
+    },
+    "Twitter": {
+      "platform": "Twitter",
+      "posts_count": 6,
+      "total_reach": 87311,
+      "total_engagements": 2973,
+      "avg_engagement_rate": 3.4050692352624528,
+      "total_clicks": 595,
+      "total_conversions": 19,
+      "ctr": 0.6814719794756674,
+      "conversion_rate": 3.1932773109243695
+    },
+    "Instagram": {
+      "platform": "Instagram",
+      "posts_count": 6,
+      "total_reach": 118455,
+      "total_engagements": 5584,
+      "avg_engagement_rate": 4.714026423536364,
+      "total_clicks": 1058,
+      "total_conversions": 38,
+      "ctr": 0.8931661812502638,
+      "conversion_rate": 3.5916824196597354
+    },
+    "Facebook": {
+      "platform": "Facebook",
+      "posts": 0,
+      "total_reach": 0
+    },
+    "TikTok": {
+      "platform": "TikTok",
+      "posts": 0,
+      "total_reach": 0
+    }
+  },
+  "calendar_export": "/workspaces/Agentic-AI-campaign-planner-executioner/outputs/campaign_calendar_20251126_154720.json"
+}
+
+✅ Campaign execution completed successfully!
+📁 Check the outputs/ folder for generated reports and calendars
